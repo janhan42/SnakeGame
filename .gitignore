@@ -1,0 +1,6 @@
+.OBJ
+SFML
+.clagnd
+*.o
+SnakeGame
+.DS*
