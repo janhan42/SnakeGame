@@ -1,4 +1,4 @@
-# ⚽️Collision_Simulation
+# 🐍 SnakeGame
 
 ## Install:
 `SnakeGame` has an automatic installer.
@@ -9,16 +9,7 @@ And auto run
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/janhan42/SnakeGame/main/installer.sh)"
 ```
-## How to Play
-English
 
-Green Button (Top Left):
->Initialize existing balls.
-___
-한국어
-
-초록색 버튼 (왼쪽 상단):
->기존에 있는 공들을 초기화 합니다.
 
 ## Execute:
 Run the command below.
