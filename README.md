@@ -7,7 +7,7 @@ It will automatically download the repo, create the necessary folders.
 And auto run
 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/janhan42/SnakeGame/main/installer.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/janhan42/SnakeGame/master/installer.sh)"
 ```
 
 
